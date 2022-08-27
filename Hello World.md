@@ -7,7 +7,7 @@ home: Text('hello world'),
 }
 }
 
-•	Void main function fires the koment our program runs
+•	Void main function fires the moment our program runs
 •	Runapp takes rootwidget to build our app
 •	Widgets are classes
 •	Matetialapp is a wrapper which wraps all designs widgets.
